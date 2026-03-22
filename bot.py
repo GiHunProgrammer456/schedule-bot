@@ -162,6 +162,12 @@ def cmd_tomorrow(msg):
     except Exception as e:
         bot.reply_to(msg, f"⚠️ Ошибка: {e}")
 
+@bot.message_handler(func=lambda msg: True)
+def cmd_unknown(msg):
+    import random
+    emojis = ["🦜", "🤔", "📚", "🌻", "🙈", "😴", "🐦", "👀", "🎓", "🤷"]
+    bot.reply_to(msg, random.choice(emojis))
+
 # ─── Flask (webhook) ──────────────────────────────────────────────────────────
 flask_app = Flask(__name__)
 
