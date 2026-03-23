@@ -33,7 +33,7 @@ LESSON_LINKS = {
     "физическая культура":     "https://edu.livedigital.space/room/l3KfYpg710",
     "физкультура":             "https://edu.livedigital.space/room/l3KfYpg710",
     "безопасност":             "https://edu.livedigital.space/room/aLL5wh9ekP",
-    "индивидуальным проектом": "https://edu.livedigital.space/room/zKpIPyW4ap",
+    "индивидуальн":            "https://edu.livedigital.space/room/zKpIPyW4ap",
     "кураторский":             "https://edu.livedigital.space/room/G2czgdkN1z",
 }
 
