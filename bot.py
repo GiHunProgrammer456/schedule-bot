@@ -27,7 +27,7 @@ LESSON_LINKS = {
     "иностранный":             "https://edu.livedigital.space/room/C64Ktq2H3f",
     "информатика":             "https://edu.livedigital.space/room/zKpIPyW4ap",
     "физика":                  "https://edu.livedigital.space/room/ONqOOYoZWV",
-    "история":                 "https://edu.livedigital.space/room/SacbAzZ4mg",
+    "история":                 "https://edu.livedigital.space/room/YicAoD7sSp",
     "обществознание":          "https://edu.livedigital.space/room/GI0mvSHdb5",
     "география":               "https://edu.livedigital.space/room/BWYpJFdbCC",
     "физическая культура":     "https://edu.livedigital.space/room/l3KfYpg710",
